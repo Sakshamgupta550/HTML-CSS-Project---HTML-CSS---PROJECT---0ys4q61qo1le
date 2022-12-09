@@ -7,7 +7,7 @@ html {
 .screen-wrapper {
   width: 100vw;
   height: 100vh;
-
+/* background-color: #bcd6ed; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,6 +19,7 @@ html {
   border: 2px solid black;
   border-radius: 10px;
   text-align: center;
+  /* background-color: yellowgreen; */
 }
 
 .otp-input {
